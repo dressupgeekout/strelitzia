@@ -1,0 +1,6 @@
+[submodule "vendor/mruby"]
+	path = vendor/mruby
+	url = https://github.com/mruby/mruby.git
+[submodule "vendor/oniguruma"]
+	path = vendor/oniguruma
+	url = https://github.com/kkos/oniguruma.git

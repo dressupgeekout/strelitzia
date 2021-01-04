@@ -1,0 +1,9 @@
+*.swo
+*.swp
+.DS_Store
+.bundle
+.ruby-version
+Gemfile.lock
+build-*/
+doc/html/
+doc/vendor/
